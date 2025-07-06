@@ -18,11 +18,12 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
+        <h1>Hi Hanna! This is your baseline for portfolio creation on web app. Now go design your portfolio on Figma. Thank you!</h1>
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Coded By LR The Programmer
         </p>
       </div>
       <p className="read-the-docs">
